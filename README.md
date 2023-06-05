@@ -17,3 +17,7 @@ npx hardhat test
 
 Some ideas:
     - Modify the code to allow the Merkle Tree could be updatable 
+
+# More learning
+
+https://proto.school/merkle-dags
